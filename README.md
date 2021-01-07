@@ -12,4 +12,5 @@ Summary of thesis for electric vehicle battery life prediction
 
 ### Reference
 ---
+- [Algorithms for Battery Management Systems 특화 과정, Coursera](https://www.coursera.org/specializations/algorithms-for-battery-management-systems)
 - 
